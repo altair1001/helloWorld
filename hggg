@@ -1,0 +1,116 @@
+<html>
+    <head>
+         <title>Sample Page</title>
+    </head>
+    <body>
+
+        <h1>My Title</h1>
+
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Itaque at perferendis dolorem qui alias fugiat ea voluptate corrupti officiis asperiores accusamus unde obcaecati a, debitis doloremque illo in! Recusandae, suscipit.</p>
+        <small>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, incidunt.</small>
+
+        <br>
+        <h1>Inputs</h1>
+        <br>
+        <input type="button" value="click me">
+        <input type="text" name="" id="" placeholder="enter word">
+        <br>
+        <label for="">date of birth: </label>
+        <input type="date" name="" id="">
+        <br>
+        <label for="">datetime: </label>
+        <input type="datetime-local" name="" id="">
+        <br>
+        <label for="">time: </label>
+        <input type="time" name="" id="">
+        <br>
+        <label for="">password</label>
+        <input type="password" name="" id="" placeholder="enter password">
+        <br>
+        <br>
+        <label for="">radio button</label>
+        <form action="">
+            <label for="">option 1</label>
+            <input type="radio" name="sample_radio" id="" value="Option 1">
+            <label for="">option 2</label>
+            <input type="radio" name="sample_radio" id="" value="Option 2">
+            <label for="">option 3</label>
+            <input type="radio" name="sample_radio" id="" value="Option 3">
+        </form>
+
+        <label for="">Checkboxes</label>
+        <form action="">
+            <label for="">option 1</label>
+            <input type="checkbox" name="sample_radio" id="" value="Option 1">
+            <label for="">option 2</label>
+            <input type="checkbox" name="sample_radio" id="" value="Option 2">
+            <label for="">option 3</label>
+            <input type="checkbox" name="sample_radio" id="" value="Option 3">
+        </form>
+        <label for="">Text Area:</label>
+        <br>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+
+
+        <h1>Links</h1>
+        <a href="https://www.w3schools.com/html/html_forms.asp" target="_blank">w3school html</a>
+
+        <br>
+        <br>
+
+        <h1>Tables</h1>
+
+        <table>
+            <thead>
+                <th>
+                    <td>Index</td>
+                    <td>First Name</td>
+                    <td>Last Name</td>
+                </th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Son</td>
+                    <td>Wukong</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Son</td>
+                    <td>Goku</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Son</td>
+                    <td>Mukong</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <br>
+        <br>
+
+        <h1>Lists</h1>
+
+        <p>Unordered List</p>
+        <ul>
+            <li>text 1</li>
+            <li>text 2</li>
+            <li>text 3</li>
+        </ul>
+
+        <p>Ordered List</p>
+        <ol type="i">
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+        </ol>
+
+        <h1>Images</h1>
+
+        <img src="https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="this is an image" width="250" height="300">
+
+
+
+    </body>
+</html>
